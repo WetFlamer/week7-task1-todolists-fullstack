@@ -1,0 +1,42 @@
+.mainBlock {
+    margin: auto;
+    margin-top: 100px;
+  list-style-type: none;
+  overflow: auto;
+  width: 800px;
+  height: 500px;
+}
+.todoText {
+  font-size: 20px;
+  font-weight: bold;
+}
+.todoBlock {
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.deleteButton {
+  margin-top: 10px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+.addBlock {
+margin-left: 200px;
+margin-top: 40px;
+}
+.input {
+    width: 300px;
+    height: 20px;
+}
+.addButton {
+    cursor: pointer;
+    height: 26px;
+}
+.checkBox {
+    width: 50px;
+    height: 50px;
+    }
